@@ -1,0 +1,30 @@
+/* Mobile */
+.about{
+    background-color: #F8EDEB;
+    padding: 40px 30px;
+}
+
+.about__title{
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.about__paragraph{
+    padding: 10px 0;
+}
+
+/* Desktop */
+@media (min-width: 1024px){
+    .about__container{
+        width: 751px;
+        padding: 20px 100px;
+    }
+
+    .about__title{
+        font-size: 32px;
+    }
+
+    .about__paragraph{
+        font-size: 18px;
+    }
+}

@@ -1,0 +1,37 @@
+@import url("styles/reset.css");
+@import url("styles/header.css");
+@import url("styles/profile.css");
+@import url("styles/about.css");
+@import url("styles/skills.css");
+@import url("styles/hobbies.css");
+@import url("styles/education.css");
+@import url("styles/experience.css");
+@import url("styles/contact.css");
+@import url("styles/footer.css");
+
+body {
+    box-sizing: border-box;
+    background-color: #FFFDF8;
+    font-family: 'Raleway';
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+    color: #464646;
+    overflow-x: hidden;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+ol, ul,li {
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
