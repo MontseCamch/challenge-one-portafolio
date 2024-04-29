@@ -1,2 +1,2 @@
 # challenge-one-portafolio
-Implementación de portafolio profesinal. Challenge ONE
+Implementación de portafolio profesional. Challenge ONE
